@@ -1,2 +1,2 @@
 # FORTRAN_TRANSLATOR
-I'll make a describe afterward.
+I'll make a description afterward.
